@@ -1,0 +1,18 @@
+label {
+    display: block;
+    margin: 10px 0 5px;
+  }
+  
+  input,
+  select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  svg {
+    margin-top: 20px;
+  }
+  
